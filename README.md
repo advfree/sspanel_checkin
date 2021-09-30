@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    每天定时自动签到获得流量
+    每天定时自动签到获得流量1
     <br />
     <br />
     <a href="https://github.com/sudojia/sspanel_checkin/issues/new">上报Bug</a>
